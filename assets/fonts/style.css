@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'font';
+   src: url('font/font.ttf');
+}
+@font-face {
+   font-family: 'Roboto-Regular';
+   src: url('Roboto-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Novecento WideMedium';
+   src: url('Novecento WideMedium/font.ttf');
+}
